@@ -1,0 +1,10 @@
+{
+    "angle": {
+        "prefix": "\\angle",
+        "body": "\\langle$ 1\\rangle$0"
+    },
+    "todo": {
+        "prefix": "\\todo",
+        "body": "**TODO: $1**"
+    },
+}
